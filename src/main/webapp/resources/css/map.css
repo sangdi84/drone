@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+#map_canvas {
+  width: 800px;
+  height: 600px;
+  margin: auto;
+}
+#select{
+	position: relative;
+	left: 700px;
+}
